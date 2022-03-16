@@ -242,6 +242,13 @@
 ],
 "lista1":[
         {
+            "id": 1,
+            "first_name": "Kevin",
+            "last_name": "Hernández",
+            "email": "khernandezd1400@alumno.ipn.mx",
+            "pic_profile": "https://southcentralus1-mediap.svc.ms/transform/thumbnail?provider=spo&inputFormat=jpeg&cs=fFNQTw&docid=https%3A%2F%2Fcorreoipn-my.sharepoint.com%3A443%2F_api%2Fv2.0%2Fdrives%2Fb!wj5woxj3LU-4GTKfTE5rExRWQtcxDOJAs-FcHxt7hPqIXkVPVMujRrXO_8e37Ili%2Fitems%2F013TAX6MFIAWNUL3ZS4BGLWRCS5JIURNZL%3Fversion%3DPublished&access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJub25lIn0.eyJhdWQiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAvY29ycmVvaXBuLW15LnNoYXJlcG9pbnQuY29tQGY5NGJmNGQ5LTgwOTctNDc5NC1hZGY2LWE1NDY2Y2EyODU2MyIsImlzcyI6IjAwMDAwMDAzLTAwMDAtMGZmMS1jZTAwLTAwMDAwMDAwMDAwMCIsIm5iZiI6IjE2NDc0NTM2MDAiLCJleHAiOiIxNjQ3NDc1MjAwIiwiZW5kcG9pbnR1cmwiOiJvUVVQblpBUGVwNXRMeWZrWFZlajBQZDJIMTNRdXBRTDRhY0tsUWdlZWdvPSIsImVuZHBvaW50dXJsTGVuZ3RoIjoiMTE5IiwiaXNsb29wYmFjayI6IlRydWUiLCJ2ZXIiOiJoYXNoZWRwcm9vZnRva2VuIiwic2l0ZWlkIjoiWVRNM01ETmxZekl0WmpjeE9DMDBaakprTFdJNE1Ua3RNekk1WmpSak5HVTJZakV6Iiwic2lnbmluX3N0YXRlIjoiW1wia21zaVwiXSIsIm5hbWVpZCI6IjAjLmZ8bWVtYmVyc2hpcHxraGVybmFuZGV6ZDE0MDBAYWx1bW5vLmlwbi5teCIsIm5paSI6Im1pY3Jvc29mdC5zaGFyZXBvaW50IiwiaXN1c2VyIjoidHJ1ZSIsImNhY2hla2V5IjoiMGguZnxtZW1iZXJzaGlwfDEwMDNiZmZkOGI3MzdhOTBAbGl2ZS5jb20iLCJzZXNzaW9uaWQiOiIxOTZhODhkYy04ZGFhLTQ5ZWEtYmM1MS03NWU5ZTU4MWFkMGMiLCJ0dCI6IjAiLCJ1c2VQZXJzaXN0ZW50Q29va2llIjoiMyIsImlwYWRkciI6IjE4Ny4xOTAuMTQ3LjExOSJ9.TmduekU4VDJnVEFDRFlCcUY3UGZYVmh4WlJJSGU0UktJdnE1SkdiZ0NJST0&cTag=%22c%3A%7B459B05A8-32EF-4CE0-BB44-52EA5148B72B%7D%2C1%22&encodeFailures=1&width=2498&height=933&srcWidth=&srcHeight="
+        },
+        {
             "id": 7,
             "email": "michael.lawson@reqres.in",
             "first_name": "Michael",
@@ -314,15 +321,6 @@
       "id": 6,
       "title": "Violin",
       "img": "https://png.pngtree.com/png-vector/20190928/ourlarge/pngtree-violin-with-fiddlestick-icon-cartoon-style-png-image_1753271.jpg"
-    }
-    ],
-  "colaboradores":[
-    {
-      "id": 1,
-      "first_name": "Kevin",
-      "last_name": "Hernández",
-      "email": "khernandezd1400@alumno.ipn.mx",
-      "pic_profile": "https://southcentralus1-mediap.svc.ms/transform/thumbnail?provider=spo&inputFormat=jpeg&cs=fFNQTw&docid=https%3A%2F%2Fcorreoipn-my.sharepoint.com%3A443%2F_api%2Fv2.0%2Fdrives%2Fb!wj5woxj3LU-4GTKfTE5rExRWQtcxDOJAs-FcHxt7hPqIXkVPVMujRrXO_8e37Ili%2Fitems%2F013TAX6MFIAWNUL3ZS4BGLWRCS5JIURNZL%3Fversion%3DPublished&access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJub25lIn0.eyJhdWQiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAvY29ycmVvaXBuLW15LnNoYXJlcG9pbnQuY29tQGY5NGJmNGQ5LTgwOTctNDc5NC1hZGY2LWE1NDY2Y2EyODU2MyIsImlzcyI6IjAwMDAwMDAzLTAwMDAtMGZmMS1jZTAwLTAwMDAwMDAwMDAwMCIsIm5iZiI6IjE2NDc0NTM2MDAiLCJleHAiOiIxNjQ3NDc1MjAwIiwiZW5kcG9pbnR1cmwiOiJvUVVQblpBUGVwNXRMeWZrWFZlajBQZDJIMTNRdXBRTDRhY0tsUWdlZWdvPSIsImVuZHBvaW50dXJsTGVuZ3RoIjoiMTE5IiwiaXNsb29wYmFjayI6IlRydWUiLCJ2ZXIiOiJoYXNoZWRwcm9vZnRva2VuIiwic2l0ZWlkIjoiWVRNM01ETmxZekl0WmpjeE9DMDBaakprTFdJNE1Ua3RNekk1WmpSak5HVTJZakV6Iiwic2lnbmluX3N0YXRlIjoiW1wia21zaVwiXSIsIm5hbWVpZCI6IjAjLmZ8bWVtYmVyc2hpcHxraGVybmFuZGV6ZDE0MDBAYWx1bW5vLmlwbi5teCIsIm5paSI6Im1pY3Jvc29mdC5zaGFyZXBvaW50IiwiaXN1c2VyIjoidHJ1ZSIsImNhY2hla2V5IjoiMGguZnxtZW1iZXJzaGlwfDEwMDNiZmZkOGI3MzdhOTBAbGl2ZS5jb20iLCJzZXNzaW9uaWQiOiIxOTZhODhkYy04ZGFhLTQ5ZWEtYmM1MS03NWU5ZTU4MWFkMGMiLCJ0dCI6IjAiLCJ1c2VQZXJzaXN0ZW50Q29va2llIjoiMyIsImlwYWRkciI6IjE4Ny4xOTAuMTQ3LjExOSJ9.TmduekU4VDJnVEFDRFlCcUY3UGZYVmh4WlJJSGU0UktJdnE1SkdiZ0NJST0&cTag=%22c%3A%7B459B05A8-32EF-4CE0-BB44-52EA5148B72B%7D%2C1%22&encodeFailures=1&width=2498&height=933&srcWidth=&srcHeight="
     }
     ]
 }
