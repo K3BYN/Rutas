@@ -288,12 +288,37 @@
     {
       "id": 1,
       "title": "Piano",
-      "img": "http://static.keymusic.com/products/277762/340/roland-fp-10-bk-digital-piano.jpg"
+      "img": "https://m.media-amazon.com/images/I/41KYvqdRsxS.jpg"
     },
     {
       "id": 2,
       "title": "Guitarra",
-      "img": "http://globalmentoring.com.mx/imagenes/css3.png"
+      "img": "https://m.media-amazon.com/images/I/31CHFzTogkL.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Bateria",
+      "img": "https://mhlemus.com.mx/wp-content/uploads/2021/10/EXBT011-500x500.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Trompeta",
+      "img": "https://mhlemus.com.mx/wp-content/uploads/2020/01/601-500x500.png"
+    },
+    {
+      "id": 4,
+      "title": "Trompeta",
+      "img": "https://mhlemus.com.mx/wp-content/uploads/2020/01/601-500x500.png"
+    },
+    {
+      "id": 5,
+      "title": "Saxofón",
+      "img": "https://clavemusica.com/wp-content/uploads/2021/07/CKBS191-500x500.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Violín",
+      "img": "https://3.imimg.com/data3/UG/BL/MY-10115230/wooden-violin-500x500.jpg"
     }
     ]
 }
