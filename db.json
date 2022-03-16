@@ -283,5 +283,12 @@
             "last_name": "Howell",
             "avatar": "https://reqres.in/img/faces/12-image.jpg"
         }
+    ],
+  "instrumentos":[
+    {
+      "id": 1,
+      "title": "Piano",
+      "img": "https://static.keymusic.com/products/277762/340/roland-fp-10-bk-digital-piano.jpg"
+    }
     ]
 }
